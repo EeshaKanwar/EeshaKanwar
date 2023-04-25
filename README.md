@@ -1,7 +1,5 @@
 - 👋 "Hello World;" I’m @EeshaKanwar
-- 👀 I’m an emerging programmer, UX/UI designer, and accountant!
+- 👀 I’m an emerging programmer and UX/UI designer!
 - 🌱 I’m currently an undergraduate student at Wilfrid Laurier University enrolled in BBA + CS dual degree program.
-- 💻 So far, I have mainly done programming inside a classroom for projects and assignments. 
-- 📈 But, I do have experience working as a bookkeeper and can handle basic journal entries and bank reconciliations on Quickbooks.
-- 💞️ Consider me "a jack of all, master of none, but oftentimes better than a master of one."
+- 💻 So far, I have professional and classroom experience with programming as well as designing designing. 
 - 📫 Feel free to reach me through my email: eeshakanwar@gmail.com
